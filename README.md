@@ -1,6 +1,6 @@
 # Node.js and Express Project
 
-# Hollywood Game - Guess the movie name
+# Guess the disney movie name
 
 Topics:
 
