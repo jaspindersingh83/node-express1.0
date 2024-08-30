@@ -69,7 +69,7 @@ When the client makes a `POST` request to `/guess`:
   the movie name so far. Think carefully about what data structure you'd like to use
   here to make the computation easy.
 
-### `GET /`
+### `GET /guess`
 
 When the client makes a `GET` request to `/guess`:
 
