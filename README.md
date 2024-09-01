@@ -10,6 +10,7 @@ Topics:
 - HTTP headers and status codes
 - Request parameters
 - API design and development
+- Understanding and implementing middleware
 
 ## Description
 
